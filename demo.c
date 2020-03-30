@@ -2,9 +2,10 @@
 
 int main(void){
 
-    printf("This is 4");
+    printf("This is one");
     printf("This is 2");
-    printf("This is 3");
-    
+    printf("This is three");
+    printf("This is 4");
+  
     return 0;
 }
